@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
+    <h3>this si jiuyi</h3>
     {{#router}}
     <router-view></router-view>
     {{else}}

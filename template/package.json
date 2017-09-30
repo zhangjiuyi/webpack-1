@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "vue": "^2.4.2"{{#router}},
+    "three": "^0.85.0",
     "vue-router": "^2.7.0"{{/router}}
   },
   "devDependencies": {
